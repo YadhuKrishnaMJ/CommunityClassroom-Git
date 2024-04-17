@@ -24,3 +24,8 @@ Github
 -> git checkout <branch name> to create a separate branch
 -> git merge <branch name> to merge the branch to Main (works via puill req)
 
+-> git clone <url>  - to clone a repository
+-> to clone a repositoryin github you can use the fork functionality 
+-> git remote add upstream <url> - to set Forked URL
+
+
