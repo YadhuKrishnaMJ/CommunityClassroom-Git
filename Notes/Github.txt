@@ -1,0 +1,16 @@
+Github
+
+-> Collaborate , Open Source project
+-> Maintain History of project
+-> Platform to host git repository
+
+-> .git is the repository where all history is saved
+-> git init command is used to initialize
+-> git status command is used to check not in history
+-> git add . <or> names.txt add to update repository (to be commited)
+-> git commit -m "names.txt file added" to commit changes
+-> git restore --staged names.txt to restore staging
+-> git log - Saved history
+-> git reset <code> - Reset to a commit
+-> git stash - kind of like savepoint
+-> git stash pop/clear
